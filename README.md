@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bruno Lacerda
 
-Me chamo Bruno da Silva Lacerda, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no CIMOL, com o curso técnico em eletrônica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISINOS. Sou apaixonado por tecnologia, leitura e adquirir novos conhecimentos.
+Me chamo Bruno da Silva Lacerda, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no CIMOL, com o curso técnico em eletrônica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISINOS. Sou apaixonado por tecnologia, leitura e adquirir novos conhecimentos.
 
 ---
 ### 🤝🏻&nbsp;Connect with Me
@@ -61,19 +61,3 @@ Me chamo Bruno da Silva Lacerda, tenho 21 anos e sou natural do Rio Grande do Su
 
 ---
 
-### 📊 Statistics
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=brunoSlacerda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoSlacerda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
